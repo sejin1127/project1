@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_workspace/Facilityside/app/src/main/res/drawable-v24/pre1.xml" value="0.20572916666666666" />
+        <entry key="..\:/Android_workspace/Facilityside/app/src/main/res/drawable-v24/pre2.xml" value="0.20572916666666666" />
+        <entry key="..\:/Android_workspace/Facilityside/app/src/main/res/font-v26/fontstyle1.xml" value="0.2574074074074074" />
+        <entry key="..\:/Android_workspace/Facilityside/app/src/main/res/layout/activity_main.xml" value="0.1778115501519757" />
+        <entry key="..\:/Android_workspace/Facilityside/app/src/main/res/layout/facilityset.xml" value="0.25" />
+        <entry key="..\:/Android_workspace/Facilityside/app/src/main/res/layout/handwritein.xml" value="0.18958333333333333" />
+        <entry key="..\:/Android_workspace/Facilityside/app/src/main/res/layout/login.xml" value="0.25" />
+        <entry key="..\:/Android_workspace/Facilityside/app/src/main/res/layout/mainmenu.xml" value="0.22" />
+        <entry key="..\:/Android_workspace/Facilityside/app/src/main/res/layout/qrcreate.xml" value="0.18958333333333333" />
+        <entry key="..\:/Android_workspace/Facilityside/app/src/main/res/layout/revertfac.xml" value="0.25" />
+        <entry key="..\:/Android_workspace/Facilityside/app/src/main/res/layout/userset.xml" value="0.18958333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

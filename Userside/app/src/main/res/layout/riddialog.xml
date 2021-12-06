@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/popup_root"
+    android:gravity="center">
+
+    <EditText
+        android:id="@+id/ridname"
+        android:hint="이름"
+        android:textSize="25dp"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"></EditText>
+    <EditText
+        android:id="@+id/ridnum"
+        android:hint="전화번호  ex) 01012345678"
+        android:textSize="25dp"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"></EditText>
+    <EditText
+        android:id="@+id/ridres"
+        android:hint="거주지   ex) 서울시 강남구"
+        android:textSize="25dp"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"></EditText>
+
+</LinearLayout>
